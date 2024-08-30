@@ -46,7 +46,6 @@ while True:
             numero_saques +=1
         else:
             print("Valor informado é invalido.")
-1
             
     elif opcao == "3":
         print("\n =========== EXTRATO ===========")
